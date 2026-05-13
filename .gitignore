@@ -10,3 +10,4 @@ outputs/
 *.tif
 *.zip
 *.gpkg
+.vscode/
