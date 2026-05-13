@@ -1,0 +1,16 @@
+geopandas
+rasterio
+rioxarray
+shapely
+fiona
+pyproj
+rtree
+scipy
+numpy
+pandas
+matplotlib
+osmnx
+pystac-client
+planetary-computer
+jupyterlab
+ipykernel

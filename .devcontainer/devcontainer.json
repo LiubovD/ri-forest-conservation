@@ -1,0 +1,11 @@
+{
+  "name": "RI Forest Conservation",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y gdal-bin libgdal-dev && pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
+    }
+  },
+  "forwardPorts": [8888]
+}
