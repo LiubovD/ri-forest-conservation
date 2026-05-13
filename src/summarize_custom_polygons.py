@@ -1,3 +1,6 @@
+# Summarizes statewide fragmentation metrics to user-provided polygons,
+# such as parcels or private forest patches, and exports a joined GeoPackage.
+
 import argparse
 import os
 from pathlib import Path

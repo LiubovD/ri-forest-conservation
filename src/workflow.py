@@ -1,3 +1,6 @@
+# Builds a statewide forest fragmentation model from NLCD forest cover,
+# road impact, core forest, and patch connectivity metrics.
+
 import os
 import warnings
 import numpy as np

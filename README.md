@@ -50,3 +50,13 @@ ri-forest-conservation/
 The statewide workflow produces a forest fragmentation priority map. Higher-priority areas generally represent larger, more connected, lower-road-impact forest patches with more core forest.
 
 ![Rhode Island forest fragmentation priority map](figures/ri_conservation_priority_map.png)
+
+## Quick Test
+
+After setup, verify your environment is configured correctly:
+
+```bash
+python -c "import geopandas, rasterio, osmnx; print('Environment OK')"
+```
+
+If successful, you should see `Environment OK` printed to the terminal.

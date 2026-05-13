@@ -1,3 +1,5 @@
+# Downloads and clips NLCD 2021 land cover data to Rhode Island boundary.
+
 import os
 import requests
 import geopandas as gpd

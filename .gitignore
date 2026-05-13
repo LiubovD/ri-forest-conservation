@@ -7,3 +7,6 @@ cache/
 # Data and generated outputs
 data/
 outputs/
+*.tif
+*.zip
+*.gpkg

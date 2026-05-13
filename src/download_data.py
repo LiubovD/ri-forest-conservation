@@ -1,3 +1,5 @@
+# Downloads Rhode Island boundary and road data from RIGIS/URI and OpenStreetMap.
+
 import os
 import geopandas as gpd
 import osmnx as ox
